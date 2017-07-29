@@ -25,4 +25,4 @@ date.csv - Sampling covariate data used to estimate species-specific detection.
 group.csv - Species grouping data used to estimate assemblage richness.
 
 ## **Code:**
-covariate model code.R - R code to run the multi-species occupancy model with covariates on occupancy (habitat type - CATO,FCW, understory foliage cover - ufc, tree basal area - ba) and detection (habitat type - CATO,FCW, and survey date - date). Contains code to import and reshape the data, create the BUG model file, and run the model file in WinBUGS. There is also code to process the results and make some figures.
+covariate model code.R - R code to run the multi-species occupancy model with covariates on occupancy (habitat type - CATO,FCW, understory foliage cover - ufc, tree basal area - ba) and detection (habitat type - CATO,FCW, and survey date - date). Contains code to import and reshape the data, create the BUG model file, and run the model file in WinBUGS. There is also code to process the results and make some figures..
